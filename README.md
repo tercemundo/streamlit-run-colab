@@ -56,3 +56,5 @@ If you have any questions or need further assistance, feel free to reach out:
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Google Colab](https://colab.research.google.com/)
 - [Medium Article](https://medium.com/@yash.kavaiya3/running-streamlit-code-in-google-colab-involves-a-few-steps-c43ea0e8c0d9)
+- De ultima, mirar streamlit run app.py & npx localtunnel --port 8501 --tunnel-password tucontraseñadeseada
+- 
